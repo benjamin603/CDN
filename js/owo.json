@@ -1,0 +1,505 @@
+{
+	"bilibili_tv_gif": {
+		"type": "image",
+		"container": [
+			{
+				"text": "bilibili_tv_gif-doge",
+				"icon": "<img src='https://emotion.acs.pw/emotion/bilibili_tv_gif/doge.gif'>"
+			},
+			{
+				"text": "bilibili_tv_gif-亲亲",
+				"icon": "<img src='https://emotion.acs.pw/emotion/bilibili_tv_gif/亲亲.gif'>"
+			},
+			{
+				"text": "bilibili_tv_gif-偷笑",
+				"icon": "<img src='https://emotion.acs.pw/emotion/bilibili_tv_gif/偷笑.gif'>"
+			},
+			{
+				"text": "bilibili_tv_gif-再见",
+				"icon": "<img src='https://emotion.acs.pw/emotion/bilibili_tv_gif/再见.gif'>"
+			},
+			{
+				"text": "bilibili_tv_gif-发怒",
+				"icon": "<img src='https://emotion.acs.pw/emotion/bilibili_tv_gif/发怒.gif'>"
+			},
+			{
+				"text": "bilibili_tv_gif-发财",
+				"icon": "<img src='https://emotion.acs.pw/emotion/bilibili_tv_gif/发财.gif'>"
+			},
+			{
+				"text": "bilibili_tv_gif-可爱",
+				"icon": "<img src='https://emotion.acs.pw/emotion/bilibili_tv_gif/可爱.gif'>"
+			},
+			{
+				"text": "bilibili_tv_gif-吐血",
+				"icon": "<img src='https://emotion.acs.pw/emotion/bilibili_tv_gif/吐血.gif'>"
+			},
+			{
+				"text": "bilibili_tv_gif-呆",
+				"icon": "<img src='https://emotion.acs.pw/emotion/bilibili_tv_gif/呆.gif'>"
+			},
+			{
+				"text": "bilibili_tv_gif-呕吐",
+				"icon": "<img src='https://emotion.acs.pw/emotion/bilibili_tv_gif/呕吐.gif'>"
+			},
+			{
+				"text": "bilibili_tv_gif-困",
+				"icon": "<img src='https://emotion.acs.pw/emotion/bilibili_tv_gif/困.gif'>"
+			},
+			{
+				"text": "bilibili_tv_gif-坏笑",
+				"icon": "<img src='https://emotion.acs.pw/emotion/bilibili_tv_gif/坏笑.gif'>"
+			},
+			{
+				"text": "bilibili_tv_gif-大佬",
+				"icon": "<img src='https://emotion.acs.pw/emotion/bilibili_tv_gif/大佬.gif'>"
+			},
+			{
+				"text": "bilibili_tv_gif-大哭",
+				"icon": "<img src='https://emotion.acs.pw/emotion/bilibili_tv_gif/大哭.gif'>"
+			},
+			{
+				"text": "bilibili_tv_gif-委屈",
+				"icon": "<img src='https://emotion.acs.pw/emotion/bilibili_tv_gif/委屈.gif'>"
+			},
+			{
+				"text": "bilibili_tv_gif-害羞",
+				"icon": "<img src='https://emotion.acs.pw/emotion/bilibili_tv_gif/害羞.gif'>"
+			},
+			{
+				"text": "bilibili_tv_gif-尴尬",
+				"icon": "<img src='https://emotion.acs.pw/emotion/bilibili_tv_gif/尴尬.gif'>"
+			},
+			{
+				"text": "bilibili_tv_gif-微笑",
+				"icon": "<img src='https://emotion.acs.pw/emotion/bilibili_tv_gif/微笑.gif'>"
+			},
+			{
+				"text": "bilibili_tv_gif-思考",
+				"icon": "<img src='https://emotion.acs.pw/emotion/bilibili_tv_gif/思考.gif'>"
+			},
+			{
+				"text": "bilibili_tv_gif-惊吓",
+				"icon": "<img src='https://emotion.acs.pw/emotion/bilibili_tv_gif/惊吓.gif'>"
+			},
+			{
+				"text": "bilibili_tv_gif-打脸",
+				"icon": "<img src='https://emotion.acs.pw/emotion/bilibili_tv_gif/打脸.gif'>"
+			},
+			{
+				"text": "bilibili_tv_gif-抓狂",
+				"icon": "<img src='https://emotion.acs.pw/emotion/bilibili_tv_gif/抓狂.gif'>"
+			},
+			{
+				"text": "bilibili_tv_gif-抠鼻子",
+				"icon": "<img src='https://emotion.acs.pw/emotion/bilibili_tv_gif/抠鼻子.gif'>"
+			},
+			{
+				"text": "bilibili_tv_gif-斜眼笑",
+				"icon": "<img src='https://emotion.acs.pw/emotion/bilibili_tv_gif/斜眼笑.gif'>"
+			},
+			{
+				"text": "bilibili_tv_gif-无奈",
+				"icon": "<img src='https://emotion.acs.pw/emotion/bilibili_tv_gif/无奈.gif'>"
+			},
+			{
+				"text": "bilibili_tv_gif-晕",
+				"icon": "<img src='https://emotion.acs.pw/emotion/bilibili_tv_gif/晕.gif'>"
+			},
+			{
+				"text": "bilibili_tv_gif-流汗",
+				"icon": "<img src='https://emotion.acs.pw/emotion/bilibili_tv_gif/流汗.gif'>"
+			},
+			{
+				"text": "bilibili_tv_gif-流鼻血",
+				"icon": "<img src='https://emotion.acs.pw/emotion/bilibili_tv_gif/流鼻血.gif'>"
+			},
+			{
+				"text": "bilibili_tv_gif-点赞",
+				"icon": "<img src='https://emotion.acs.pw/emotion/bilibili_tv_gif/点赞.gif'>"
+			},
+			{
+				"text": "bilibili_tv_gif-生气",
+				"icon": "<img src='https://emotion.acs.pw/emotion/bilibili_tv_gif/生气.gif'>"
+			},
+			{
+				"text": "bilibili_tv_gif-生病",
+				"icon": "<img src='https://emotion.acs.pw/emotion/bilibili_tv_gif/生病.gif'>"
+			},
+			{
+				"text": "bilibili_tv_gif-疑问",
+				"icon": "<img src='https://emotion.acs.pw/emotion/bilibili_tv_gif/疑问.gif'>"
+			},
+			{
+				"text": "bilibili_tv_gif-白眼",
+				"icon": "<img src='https://emotion.acs.pw/emotion/bilibili_tv_gif/白眼.gif'>"
+			},
+			{
+				"text": "bilibili_tv_gif-睡着",
+				"icon": "<img src='https://emotion.acs.pw/emotion/bilibili_tv_gif/睡着.gif'>"
+			},
+			{
+				"text": "bilibili_tv_gif-笑哭",
+				"icon": "<img src='https://emotion.acs.pw/emotion/bilibili_tv_gif/笑哭.gif'>"
+			},
+			{
+				"text": "bilibili_tv_gif-腼腆",
+				"icon": "<img src='https://emotion.acs.pw/emotion/bilibili_tv_gif/腼腆.gif'>"
+			},
+			{
+				"text": "bilibili_tv_gif-色",
+				"icon": "<img src='https://emotion.acs.pw/emotion/bilibili_tv_gif/色.gif'>"
+			},
+			{
+				"text": "bilibili_tv_gif-调皮",
+				"icon": "<img src='https://emotion.acs.pw/emotion/bilibili_tv_gif/调皮.gif'>"
+			},
+			{
+				"text": "bilibili_tv_gif-鄙视",
+				"icon": "<img src='https://emotion.acs.pw/emotion/bilibili_tv_gif/鄙视.gif'>"
+			},
+			{
+				"text": "bilibili_tv_gif-闭嘴",
+				"icon": "<img src='https://emotion.acs.pw/emotion/bilibili_tv_gif/闭嘴.gif'>"
+			},
+			{
+				"text": "bilibili_tv_gif-难过",
+				"icon": "<img src='https://emotion.acs.pw/emotion/bilibili_tv_gif/难过.gif'>"
+			},
+			{
+				"text": "bilibili_tv_gif-馋",
+				"icon": "<img src='https://emotion.acs.pw/emotion/bilibili_tv_gif/馋.gif'>"
+			},
+			{
+				"text": "bilibili_tv_gif-黑人问号",
+				"icon": "<img src='https://emotion.acs.pw/emotion/bilibili_tv_gif/黑人问号.gif'>"
+			},
+			{
+				"text": "bilibili_tv_gif-鼓掌",
+				"icon": "<img src='https://emotion.acs.pw/emotion/bilibili_tv_gif/鼓掌.gif'>"
+			}
+		]
+	}
+,
+	"Heo-100": {
+		"type": "image",
+		"container": [
+			{
+				"text": "Heo-100-info",
+				"icon": "<img src='https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/info.json'>"
+			},
+			{
+				"text": "Heo-100-不好意思",
+				"icon": "<img src='https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/不好意思.png'>"
+			},
+			{
+				"text": "Heo-100-亲亲",
+				"icon": "<img src='https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/亲亲.png'>"
+			},
+			{
+				"text": "Heo-100-倚墙笑",
+				"icon": "<img src='https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/倚墙笑.png'>"
+			},
+			{
+				"text": "Heo-100-偷偷看",
+				"icon": "<img src='https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/偷偷看.png'>"
+			},
+			{
+				"text": "Heo-100-再见",
+				"icon": "<img src='https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/再见.png'>"
+			},
+			{
+				"text": "Heo-100-出家人",
+				"icon": "<img src='https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/出家人.png'>"
+			},
+			{
+				"text": "Heo-100-加班",
+				"icon": "<img src='https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/加班.png'>"
+			},
+			{
+				"text": "Heo-100-勉强笑",
+				"icon": "<img src='https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/勉强笑.png'>"
+			},
+			{
+				"text": "Heo-100-危险",
+				"icon": "<img src='https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/危险.png'>"
+			},
+			{
+				"text": "Heo-100-发红包",
+				"icon": "<img src='https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/发红包.png'>"
+			},
+			{
+				"text": "Heo-100-吃瓜",
+				"icon": "<img src='https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/吃瓜.png'>"
+			},
+			{
+				"text": "Heo-100-吐血",
+				"icon": "<img src='https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/吐血.png'>"
+			},
+			{
+				"text": "Heo-100-吵架",
+				"icon": "<img src='https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/吵架.png'>"
+			},
+			{
+				"text": "Heo-100-呲牙笑",
+				"icon": "<img src='https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/呲牙笑.png'>"
+			},
+			{
+				"text": "Heo-100-哈士奇",
+				"icon": "<img src='https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/哈士奇.png'>"
+			},
+			{
+				"text": "Heo-100-哈士奇失去意识",
+				"icon": "<img src='https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/哈士奇失去意识.png'>"
+			},
+			{
+				"text": "Heo-100-哭泣",
+				"icon": "<img src='https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/哭泣.png'>"
+			},
+			{
+				"text": "Heo-100-唱歌",
+				"icon": "<img src='https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/唱歌.png'>"
+			},
+			{
+				"text": "Heo-100-喜欢",
+				"icon": "<img src='https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/喜欢.png'>"
+			},
+			{
+				"text": "Heo-100-大笑",
+				"icon": "<img src='https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/大笑.png'>"
+			},
+			{
+				"text": "Heo-100-头秃",
+				"icon": "<img src='https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/头秃.png'>"
+			},
+			{
+				"text": "Heo-100-奋斗",
+				"icon": "<img src='https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/奋斗.png'>"
+			},
+			{
+				"text": "Heo-100-好奇",
+				"icon": "<img src='https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/好奇.png'>"
+			},
+			{
+				"text": "Heo-100-好的",
+				"icon": "<img src='https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/好的.png'>"
+			},
+			{
+				"text": "Heo-100-害羞",
+				"icon": "<img src='https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/害羞.png'>"
+			},
+			{
+				"text": "Heo-100-小丑",
+				"icon": "<img src='https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/小丑.png'>"
+			},
+			{
+				"text": "Heo-100-尴尬",
+				"icon": "<img src='https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/尴尬.png'>"
+			},
+			{
+				"text": "Heo-100-应援",
+				"icon": "<img src='https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/应援.png'>"
+			},
+			{
+				"text": "Heo-100-开心",
+				"icon": "<img src='https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/开心.png'>"
+			},
+			{
+				"text": "Heo-100-引起不适",
+				"icon": "<img src='https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/引起不适.png'>"
+			},
+			{
+				"text": "Heo-100-微笑",
+				"icon": "<img src='https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/微笑.png'>"
+			},
+			{
+				"text": "Heo-100-思考",
+				"icon": "<img src='https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/思考.png'>"
+			},
+			{
+				"text": "Heo-100-恶心",
+				"icon": "<img src='https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/恶心.png'>"
+			},
+			{
+				"text": "Heo-100-惊吓",
+				"icon": "<img src='https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/惊吓.png'>"
+			},
+			{
+				"text": "Heo-100-惊讶",
+				"icon": "<img src='https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/惊讶.png'>"
+			},
+			{
+				"text": "Heo-100-感动",
+				"icon": "<img src='https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/感动.png'>"
+			},
+			{
+				"text": "Heo-100-愤怒",
+				"icon": "<img src='https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/愤怒.png'>"
+			},
+			{
+				"text": "Heo-100-我看好你",
+				"icon": "<img src='https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/我看好你.png'>"
+			},
+			{
+				"text": "Heo-100-打牌",
+				"icon": "<img src='https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/打牌.png'>"
+			},
+			{
+				"text": "Heo-100-抠鼻",
+				"icon": "<img src='https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/抠鼻.png'>"
+			},
+			{
+				"text": "Heo-100-捂嘴笑",
+				"icon": "<img src='https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/捂嘴笑.png'>"
+			},
+			{
+				"text": "Heo-100-捂脸",
+				"icon": "<img src='https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/捂脸.png'>"
+			},
+			{
+				"text": "Heo-100-擦汗",
+				"icon": "<img src='https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/擦汗.png'>"
+			},
+			{
+				"text": "Heo-100-月饼",
+				"icon": "<img src='https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/月饼.png'>"
+			},
+			{
+				"text": "Heo-100-滑稽",
+				"icon": "<img src='https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/滑稽.png'>"
+			},
+			{
+				"text": "Heo-100-滑稽喝水",
+				"icon": "<img src='https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/滑稽喝水.png'>"
+			},
+			{
+				"text": "Heo-100-滑稽狂汗",
+				"icon": "<img src='https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/滑稽狂汗.png'>"
+			},
+			{
+				"text": "Heo-100-滑稽被子",
+				"icon": "<img src='https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/滑稽被子.png'>"
+			},
+			{
+				"text": "Heo-100-烦恼",
+				"icon": "<img src='https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/烦恼.png'>"
+			},
+			{
+				"text": "Heo-100-熊猫",
+				"icon": "<img src='https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/熊猫.png'>"
+			},
+			{
+				"text": "Heo-100-熊猫唱歌",
+				"icon": "<img src='https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/熊猫唱歌.png'>"
+			},
+			{
+				"text": "Heo-100-熊猫喜欢",
+				"icon": "<img src='https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/熊猫喜欢.png'>"
+			},
+			{
+				"text": "Heo-100-熬夜",
+				"icon": "<img src='https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/熬夜.png'>"
+			},
+			{
+				"text": "Heo-100-爆炸",
+				"icon": "<img src='https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/爆炸.png'>"
+			},
+			{
+				"text": "Heo-100-牛年进宝",
+				"icon": "<img src='https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/牛年进宝.png'>"
+			},
+			{
+				"text": "Heo-100-狗头",
+				"icon": "<img src='https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/狗头.png'>"
+			},
+			{
+				"text": "Heo-100-狗头围脖",
+				"icon": "<img src='https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/狗头围脖.png'>"
+			},
+			{
+				"text": "Heo-100-狗头胖次",
+				"icon": "<img src='https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/狗头胖次.png'>"
+			},
+			{
+				"text": "Heo-100-狗头花",
+				"icon": "<img src='https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/狗头花.png'>"
+			},
+			{
+				"text": "Heo-100-狗头草",
+				"icon": "<img src='https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/狗头草.png'>"
+			},
+			{
+				"text": "Heo-100-生病",
+				"icon": "<img src='https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/生病.png'>"
+			},
+			{
+				"text": "Heo-100-疑问",
+				"icon": "<img src='https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/疑问.png'>"
+			},
+			{
+				"text": "Heo-100-疼痛",
+				"icon": "<img src='https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/疼痛.png'>"
+			},
+			{
+				"text": "Heo-100-看穿一切",
+				"icon": "<img src='https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/看穿一切.png'>"
+			},
+			{
+				"text": "Heo-100-眩晕",
+				"icon": "<img src='https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/眩晕.png'>"
+			},
+			{
+				"text": "Heo-100-睡觉",
+				"icon": "<img src='https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/睡觉.png'>"
+			},
+			{
+				"text": "Heo-100-禁言",
+				"icon": "<img src='https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/禁言.png'>"
+			},
+			{
+				"text": "Heo-100-笑哭",
+				"icon": "<img src='https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/笑哭.png'>"
+			},
+			{
+				"text": "Heo-100-纠结",
+				"icon": "<img src='https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/纠结.png'>"
+			},
+			{
+				"text": "Heo-100-绿帽",
+				"icon": "<img src='https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/绿帽.png'>"
+			},
+			{
+				"text": "Heo-100-耍酷",
+				"icon": "<img src='https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/耍酷.png'>"
+			},
+			{
+				"text": "Heo-100-菜狗",
+				"icon": "<img src='https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/菜狗.png'>"
+			},
+			{
+				"text": "Heo-100-被打",
+				"icon": "<img src='https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/被打.png'>"
+			},
+			{
+				"text": "Heo-100-送福",
+				"icon": "<img src='https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/送福.png'>"
+			},
+			{
+				"text": "Heo-100-阴险",
+				"icon": "<img src='https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/阴险.png'>"
+			},
+			{
+				"text": "Heo-100-难以置信",
+				"icon": "<img src='https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/难以置信.png'>"
+			},
+			{
+				"text": "Heo-100-鬼脸",
+				"icon": "<img src='https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/鬼脸.png'>"
+			},
+			{
+				"text": "Heo-100-鼓掌",
+				"icon": "<img src='https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/鼓掌.png'>"
+			}
+		]
+	}
+}
